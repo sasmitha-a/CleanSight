@@ -1,4 +1,4 @@
-# CleanSight: Data Quality & Preprocessing Toolkit
+# CleanSight: Data Quality & Preprocessing Application
 
 CleanSight is a powerful tool that allows users to analyze, preprocess, and download high-quality datasets with just a few clicks. Built with FastAPI (backend) and Next.js (frontend), it simplifies the data cleaning process for analysts, developers, and data scientists.
 
