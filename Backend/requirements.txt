@@ -1,0 +1,7 @@
+fastapi
+pandas
+uvicorn
+fpdf
+scikit-learn
+numpy
+scipy
